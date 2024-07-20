@@ -1,4 +1,4 @@
 Pour ce projet on utiliser Express JS,
 Pour cela on creer un dossier appeler mern-server pour le server ou router : mkdir mern-server
 On integre dans le dossier et on initialise le projet avec la commande suivante : npm init et on tape entrer jusqu'à la fin
-Ensuite un creer un fichier appeler index.JS et on install Express js 
+Ensuite un creer un fichier appeler index.JS et on install Express js : npm install express cors mongodb nodemon
