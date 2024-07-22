@@ -7,4 +7,7 @@ Ensuite sur le site on copie le code  suivant et le coller dans le fichier index
 
 
 Il faut lier la base de donnnée mongodb au projet, pour cela il faut creer un nom d'utilisateur : dans l'onglet Security -> Database Access createUse
-On creer avec le nom et lier la base de donnnée 
+On creer avec le nom et lier la base de donnnée.
+Pour cela on creer un nouveau cluster lorsqu'on as un ancien nom de base de donnnée.
+Une fois la base de donnnée est connecté, on creer une collection pour le documents
+Ensuite on fait l'insertion du livre avec la methode post, on part sur le site mongodb 
